@@ -1,0 +1,27 @@
+table {
+    margin: 50px auto;
+}
+
+td, table {
+    border-collapse: collapse;
+}
+
+td {
+    border: solid 1px #ccc;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.rover {
+    background: lightgreen;
+}
+
+.location {
+    border: solid 1px #ccc;
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    margin-top: 10px;
+    width: 600px;
+}
